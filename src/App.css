@@ -1,0 +1,19 @@
+.App {
+  background-image: url('../public/background2.webp');
+  background-size: cover;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+.overlay {
+  padding: 1rem;
+  margin: auto;
+  border-radius: 1rem;
+  background-color: rgba(33, 71, 104, 0.7);
+}
