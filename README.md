@@ -1,3 +1,24 @@
+#Objective
+----------------------
+In this checkpoint, we are going to make our first contact with React.
+
+
+#Instructions
+----------------------
+•	Let’s start playing around with React.
+1.	Create a new React project.
+2.	Add bootstrap to your project.
+3.	Try to create a form using bootstrap.
+4.	In case you meet any problems, take a look at these readings about React..
+5.	Create a layout for the website.
+6.	And Be creative! 
+•	 Before you start with react, you should follow these steps:
+1.	Install Node JS.
+2.	Install Visual Studio Code.
+3.	Create a folder and access it using the command line.
+4.	Type “ code .” to open the folder in vscode.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
